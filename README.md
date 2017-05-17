@@ -1,5 +1,7 @@
 # MultiOgar-Edited
 
+#THIS IS A VERSION WHERE IS ULTRASPLIT#
+
 A fast, open source server that supports multiple protocol versions and smooth vanilla physics.
 
 Since August of 2016, [Barbosik](https://github.com/Barbosik) has stopped working on this project. So I forked the code and remade it into MultiOgar-Edited. An updated version of the previous MultiOgar.

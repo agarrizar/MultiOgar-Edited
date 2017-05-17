@@ -1,6 +1,6 @@
 # MultiOgar-Edited
 
-#THIS IS A VERSION WHERE IS ULTRASPLIT#
+#THIS IS A VERSION WHERE IS ULTRASPLIT
 
 A fast, open source server that supports multiple protocol versions and smooth vanilla physics.
 
